@@ -1,4 +1,7 @@
-# api documentation for  [tapable (v0.2.6)](https://github.com/webpack/tapable)  [![npm package](https://img.shields.io/npm/v/npmdoc-tapable.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-tapable) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-tapable.svg)](https://travis-ci.org/npmdoc/node-npmdoc-tapable)
+# npmdoc-tapable
+
+#### basic api documentation for  [tapable (v0.2.6)](https://github.com/webpack/tapable)  [![npm package](https://img.shields.io/npm/v/npmdoc-tapable.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-tapable) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-tapable.svg)](https://travis-ci.org/npmdoc/node-npmdoc-tapable)
+
 #### Just a little module for plugins.
 
 [![NPM](https://nodei.co/npm/tapable.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/tapable)
@@ -59,7 +62,8 @@
     "scripts": {
         "test": "mocha --reporter spec"
     },
-    "version": "0.2.6"
+    "version": "0.2.6",
+    "bin": {}
 }
 ```
 
